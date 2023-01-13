@@ -7,6 +7,8 @@
 # This script runs all test/lint/lint-* files, and fails if any exit
 # with a non-zero status code.
 
+# Manoj Sankhat bitcoin
+
 from glob import glob
 from pathlib import Path
 from subprocess import run
